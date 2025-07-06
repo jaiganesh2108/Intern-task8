@@ -41,7 +41,8 @@ Ensure Python is Installed: Verify Python installation by running:
 
 ---
 
-## No Additional Dependencies: The script uses only standard Python libraries (re and random), so no additional packages are required.
+## No Additional Dependencies: 
+- The script uses only standard Python libraries (re and random), so no additional packages are required.
 
 ---
 
